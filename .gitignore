@@ -1,0 +1,19 @@
+# Data files (large, manually downloaded)
+data/raw/
+data/processed/
+
+# Generated output
+output/
+outputs/
+figures/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# References
+references/
+
+# Temp
+temp_repo/
